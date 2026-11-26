@@ -8,7 +8,7 @@ function perkenalan(nama, kelas, hobi){
 }
 
 perkenalan("Siti", "XRPL 10", "Nonton anime");
-perkenalan("Yono", "TKJ 2", "Judol");
+perkenalan("Yono", "TKJ 2", "Mancing");
 perkenalan("Johan", "XIPG", "Bersepeda");
 
 // Soal 2
